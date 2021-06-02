@@ -16,7 +16,11 @@
 
 传统机器学习：sklearn
 
-word2vec: https://github.com/Embedding/Chinese-Word-Vectors
+word2vec: word2vec模型文件（使用百度百科文本预训练）
+https//pan.baidu.com/s/13QWrN-9aayTTo0KKuAHMhw, 提取码 biwh
+
+word2vec具体训练参考：
+https://github.com/Embedding/Chinese-Word-Vectors
 
 参与比较的机器学习方法
 1. SVM、SVM + word2vec
