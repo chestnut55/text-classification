@@ -1,0 +1,5 @@
+sklearn
+jieba
+gensim
+matplotlib
+pydot
